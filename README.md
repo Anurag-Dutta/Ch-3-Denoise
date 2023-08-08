@@ -2,7 +2,7 @@
 
 The **Chandrayaan 3 (Ch-3)** mission is poised to comprehensively explore the moon's surface. The landing site selection process leverages insights gained from previous missions, particularly Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS) and Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³). 
 
-<p align="right">
+<p align="center">
   <img src="https://www.pinclipart.com/picdir/big/35-354122_indian-space-research-organisation-logo-isro-logo-clipart.png" alt="ISRO" width="200">
 </p>
 
