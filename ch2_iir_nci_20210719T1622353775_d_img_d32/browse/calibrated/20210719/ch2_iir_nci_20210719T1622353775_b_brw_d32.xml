@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Product_Observational xmlns="http://pds.nasa.gov/pds4/pds/v1" xmlns:disp="http://pds.nasa.gov/pds4/disp/v1" xmlns:pds="http://pds.nasa.gov/pds4/pds/v1" xmlns:sp="http://pds.nasa.gov/pds4/sp/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 http://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1B00.xsd       http://pds.nasa.gov/pds4/disp/v1 http://pds.nasa.gov/pds4/disp/v1/PDS4_DISP_1301.xsd      http://pds.nasa.gov/pds4/sp/v1 http://pds.nasa.gov/pds4/sp/v1/PDS4_SP_1100.xsd">
+
+    <Identification_Area>
+        <logical_identifier>urn:isro:isda:ch2_cho.iir:data_calibrated:ch2_iir_nci_20210719t1622353775_b_brw_d32</logical_identifier>
+        <version_id>1.0</version_id>
+        <title>Chandrayaan-2 Orbiter IIRS Experiment</title>
+        <information_model_version>1.11.0.0</information_model_version>
+        <product_class>Product_Observational</product_class>
+        <Modification_History>
+            <Modification_Detail>
+                <modification_date>2019-12-02</modification_date>
+                <version_id>1.0</version_id>
+                <description>PDS4 product label created by SAC Optical DP Team</description>
+            </Modification_Detail>
+        </Modification_History>
+    </Identification_Area>
+    <Observation_Area>
+        <Time_Coordinates>
+            <start_date_time>2021-07-19T16:22:35.3775Z</start_date_time>
+            <stop_date_time>2021-07-19T16:37:10.8759Z</stop_date_time>
+        </Time_Coordinates>
+        <Primary_Result_Summary>
+            <purpose>Science</purpose>
+	    <processing_level>Calibrated</processing_level>
+	</Primary_Result_Summary>
+        <Investigation_Area>
+            <name>Chandrayaan-2</name>
+            <type>Mission</type>
+            <Internal_Reference>
+                <lidvid_reference>urn:isro:isda:context:investigation:mission.chandrayaan2::1.0</lidvid_reference>
+                <reference_type>data_to_investigation</reference_type>
+            </Internal_Reference>
+        </Investigation_Area>
+        <Observing_System>
+            <Observing_System_Component>
+                <name>Chandrayaan 2 Orbiter</name>
+                <type>Spacecraft</type>
+                <description>
+                    Chandrayaan-2 Orbiter is an Orbiter craft under the Chandrayaan-2 Spacecraft 
+                    consists of various scientific instruments.
+                </description>
+            </Observing_System_Component>
+            <Observing_System_Component>
+                <name>imaging infrared spectrometer</name>
+                <type>Instrument</type>
+                <description>
+                    IIRS (Imaging InfraRed Spectrometer) is one of the scientific instrument hosted 
+                    on the Chandrayaan-2 Orbiter. The instrument is a grating based spectrometer 
+                    covering the spectral region between 0.8 um to 5.0 um.
+                </description>
+            </Observing_System_Component>
+        </Observing_System>
+        <Target_Identification>
+            <name>Moon</name>
+            <type>Satellite</type>
+            <description>Moon is a natural satellite of Earth</description>
+        </Target_Identification>
+	
+    </Observation_Area>
+    <File_Area_Observational>
+        <File>
+            <file_name>ch2_iir_nci_20210719T1622353775_b_brw_d32.png</file_name>
+            <creation_date_time>2022-11-05T08:08:49</creation_date_time>
+            <file_size unit="byte">1212687</file_size>
+            <md5_checksum>b0f36cf457da0d12273b37b1c2058b6c</md5_checksum>
+            <comment>
+                This File contains the count calibrated sub sampled browse image
+                md5_checksum is provided for ensuring data integrity when users are downloading the data.
+            </comment>
+        </File>
+        <Array_2D_Image>
+            <offset unit="byte">0</offset>
+            <axes>2</axes>
+            <axis_index_order>Last Index Fastest</axis_index_order>
+            <Element_Array>
+                <data_type>UnsignedByte</data_type>
+            </Element_Array>
+            <Axis_Array>
+                <axis_name>Line</axis_name>
+                <elements>11552</elements>
+                <sequence_number>1</sequence_number>
+            </Axis_Array>
+            <Axis_Array>
+                <axis_name>Sample</axis_name>
+                <elements>175</elements>
+                <sequence_number>2</sequence_number>
+            </Axis_Array>
+        </Array_2D_Image>
+    </File_Area_Observational>
+</Product_Observational>
