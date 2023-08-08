@@ -2,6 +2,12 @@
 
 The **Chandrayaan 3 (Ch-3)** mission is poised to comprehensively explore the moon's surface. The landing site selection process leverages insights gained from previous missions, particularly Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS) and Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³).
 
+![Ch-1 M³](https://github.com/Anurag-Dutta/Ch-3-Denoise/blob/main/M3G20090606T093322_V01_QL_B046.jpg)
+HyperSpectral Image from Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³)
+
+![Ch-2 IIRS](https://github.com/Anurag-Dutta/Ch-3-Denoise/blob/main/ch2_iir_nci_20210719T1622353775_b_brw_d32.png)
+HyperSpectral Image from Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS)
+
 Our research concentrates on in-depth data analysis of the chosen Chandrayaan 3 landing site. We employ advanced techniques to eliminate unwanted noise from the hyperspectral images captured by IIRS and M³. The distinctive data acquisition methods of IIRS on Chandrayaan 2 and M³ on Chandrayaan 1 augment our comprehension of lunar composition and features.
 
 Our objective is to enhance the quality of Chandrayaan 3's landing site data by eliminating interference caused by noise. This enhancement facilitates clearer and more practical utilization of the images. To attain this goal, we employ two denoising methodologies:
