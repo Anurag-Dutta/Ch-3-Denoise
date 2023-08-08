@@ -1,0 +1,147 @@
+PDS_VERSION_ID                 = PDS3
+LABEL_REVISION_NOTE            = "2011-03-31  UMD/ACT  Original RLFL product."
+DATA_SET_ID                    = "CH1-ORB-L-M3-4-L2-REFLECTANCE-V1.0"
+PRODUCT_ID                     = "M3G20090606T093322_V01_RFL"
+RECORD_TYPE                    = UNDEFINED
+MISSION_ID                     = "CH1"
+MISSION_NAME                   = "CHANDRAYAAN-1"
+INSTRUMENT_HOST_ID             = "CH1-ORB"
+INSTRUMENT_HOST_NAME           = "CHANDRAYAAN-1 ORBITER"
+INSTRUMENT_NAME                = "MOON MINERALOGY MAPPER"
+INSTRUMENT_ID                  = M3
+TARGET_NAME                    = "MOON"
+TARGET_TYPE                    = "SATELLITE"
+MISSION_PHASE_NAME             = "PRIMARY MISSION"
+PRODUCT_TYPE                   = REFLECTANCE_IMAGE
+PRODUCT_CREATION_TIME          = 2011-11-21T00:11:30.229
+START_TIME                     = 2009-06-06T09:33:22
+STOP_TIME                      = 2009-06-06T09:57:12
+SPACECRAFT_CLOCK_START_COUNT   = "11/1503383.282"
+SPACECRAFT_CLOCK_STOP_COUNT    = "11/1504813.009"
+ORBIT_NUMBER                   = 02537
+PRODUCT_VERSION_TYPE           = "ACTUAL"
+PRODUCER_INSTITUTION_NAME      = "APPLIED COHERENT TECHNOLOGY CORP."
+SOFTWARE_NAME                  = "PIPE_REACT_m3v01_"
+SOFTWARE_VERSION_ID            = "01"
+DESCRIPTION                    = "M3 Level 2 data product which contains
+  pixel located, thermal corrected, photometry corrected, reflectance data."
+/* Calibrated Image Instrument and Observation Parameters */
+SOLAR_DISTANCE                 = 1.017324076508 <AU>
+INSTRUMENT_MODE_ID             = "GLOBAL"
+DETECTOR_TEMPERATURE           = 162.96
+CH1:SWATH_WIDTH                = 304 <pixel>
+CH1:SWATH_LENGTH               = 14051 <pixel>
+CH1:SPACECRAFT_YAW_DIRECTION   = "REVERSE"
+CH1:ORBIT_LIMB_DIRECTION       = "ASCENDING"
+SPACECRAFT_ORIENTATION         = ("N/A","N/A",
+                                  "N/A")
+CH1:INITIAL_SC_ORIENTATION     = (02.920833192027,0.481809546500,
+                                  184.349069195677)
+CH1:SC_ORIENTATION_EPOCH_TDB_TIME = 297550985.483000
+CH1:SC_ORIENTATION_RATE        = ("N/A","N/A",
+                                  "N/A")
+CH1:SC_ROTATION_AXIS_VECTOR    = (0.006302840690,-0.994644893901,
+                                  0.103159145187)
+CH1:SC_ROTATION_RATE           = 0.047737925810
+ 
+^DESCRIPTION              = "L1B_NAV_DESC.ASC"
+ 
+/* Spectral calibration parameters and radiometric gain factor data */
+ 
+CH1:SPECTRAL_CALIBRATION_FILE_NAME      = "M3G20081211_RDN_SPC.TAB"
+CH1:RAD_GAIN_FACTOR_FILE_NAME           = "M3G20081211_RDN_GAIN.TAB"
+CH1:GLOBAL_BANDPASS_FILE_NAME           = "M3G20081211_RDN_BPF.IMG"
+ 
+/* Level 1B radiance image product and the associated observational  */       
+/* geometry and pixel location (longitude, latitude, and radius)     */
+/* files used as sources for this reflectance product.               */    
+ 
+SOURCE_DATA_SET_ID                      = "CH1-ORB-L-M3-4-L1B-RADIANCE-V3.0"
+SOURCE_PRODUCT_ID                       = "M3G20090606T093322_V03_RDN"
+CH1:RADIANCE_IMAGE_FILE_NAME            = "M3G20090606T093322_V03_RDN.IMG"
+CH1:OBS_GEOMETRY_FILE_NAME              = "M3G20090606T093322_V03_OBS.IMG"
+CH1:PIXEL_LOCATION_FILE_NAME            = "M3G20090606T093322_V03_LOC.IMG"
+/* Calibration files and factors applied to the Level 1B radiance   */        
+/* image product to generate this reflectance product.              */        
+CH1:SOLAR_SPECTRUM_FILE_NAME            = "M3G20110224_RFL_SOLAR_SPEC.TAB"
+CH1:STATISTICAL_POLISHER_FILE_NAME      = "M3G20110830_RFL_STAT_POL_2.TAB"
+CH1:THERMAL_CORRECTION_FLAG             = "Y"
+CH1:PHOTOMETRY_CORR_FILE_NAME           = "M3G20111109_RFL_F_ALPHA_HIL.TAB"
+CH1:GROUND_TRUTH_CORR_FILE_NAME         = "N/A"
+/* Description of the photometrically-corrected (from local topography) and */
+/* reflectance-corrected data file where a stored value of 1.0, unitless,   */
+/* represents 100% reflectance.                                             */
+OBJECT          = RFL_FILE
+  ^RFL_IMAGE    = "M3G20090606T093322_V01_RFL.IMG"
+  RECORD_TYPE   = FIXED_LENGTH
+  RECORD_BYTES  = 103360
+  FILE_RECORDS  = 14051
+  OBJECT                     = RFL_IMAGE
+    LINES                    = 14051
+    LINE_SAMPLES             = 304
+    SAMPLE_TYPE              = PC_REAL
+    SAMPLE_BITS              = 32
+    BANDS                    = 85
+    BAND_STORAGE_TYPE        = LINE_INTERLEAVED
+    LINE_DISPLAY_DIRECTION   = DOWN
+    SAMPLE_DISPLAY_DIRECTION = RIGHT
+    INVALID_CONSTANT         = -999.0
+  END_OBJECT                 = RFL_IMAGE
+END_OBJECT = RFL_FILE
+/* Description of the header file for RFL_FILE */
+OBJECT              = RFL_HDR_FILE
+  ^RFL_ENVI_HEADER  = "M3G20090606T093322_V01_RFL.HDR"
+  RECORD_TYPE       = VARIABLE_LENGTH
+  FILE_RECORDS      = 1242
+  OBJECT               = RFL_ENVI_HEADER
+    INTERCHANGE_FORMAT = "ASCII"
+    BYTES              = 37989
+    HEADER_TYPE        = ENVI
+    DESCRIPTION        = "Header file for compatibility with the commercial
+                          software package ENVI."  
+  END_OBJECT = RFL_ENVI_HEADER
+END_OBJECT = RFL_HDR_FILE
+ 
+/* Description of the supplemental data file for the RLF image above.       */
+/* Band 1 provides the 1489-nm channel photometrically-corrected to a       */
+/* sphere to preserve topography (i.e., photometrically-corrected albedo);  */
+/* a stored value of 1.0, unitless, represents 100% reflectance.            */
+/* Band 2 contains the temperature estimated and applied by the thermal     */
+/* correction step of the L2 calibration process; units are kelvin.         */
+/* Band 3 contains the longest wavelength band that is scientifically       */
+/* useful and has topography (number 84 for global mode or 253 for target   */
+/* mode) from the L1 radiance image specified by CH1:RADIANCE_IMAGE_FILE_   */
+/* NAME; none of the Level 2 steps has been applied.                       */
+OBJECT          = SUPPLEMENTAL_FILE
+  ^SUPPL_IMAGE  = "M3G20090606T093322_V01_SUP.IMG"
+  RECORD_TYPE   = FIXED_LENGTH
+  RECORD_BYTES  = 3648
+  FILE_RECORDS  = 14051
+  OBJECT                     = SUPPL_IMAGE
+    LINES                    = 14051
+    LINE_SAMPLES             = 304
+    SAMPLE_TYPE              = PC_REAL
+    SAMPLE_BITS              = 32
+    BANDS                    = 3
+    BAND_STORAGE_TYPE        = LINE_INTERLEAVED
+    BAND_NAME                = ("1489NM RFL (PHOTOM RELATIVE TO SPHERE)",
+                                "ESTIMATED TEMPERATURE",                      
+                                "RDN BAND 84") 
+    LINE_DISPLAY_DIRECTION   = DOWN
+    SAMPLE_DISPLAY_DIRECTION = RIGHT
+END_OBJECT                 = SUPPL_IMAGE
+END_OBJECT = SUPPLEMENTAL_FILE
+/* Description of the header file for SUPPLEMENTAL_FILE                     */
+OBJECT               = SUPPLEMENTAL_HDR_FILE
+  ^SUPPL_ENVI_HEADER = "M3G20090606T093322_V01_SUP.HDR"
+  RECORD_TYPE        = VARIABLE_LENGTH
+  FILE_RECORDS       = 14
+  OBJECT               = SUPPL_ENVI_HEADER
+    INTERCHANGE_FORMAT = "ASCII"
+    BYTES              = 292
+    HEADER_TYPE        = ENVI
+    DESCRIPTION        = "Header file for compatibility with the commercial
+                          software package ENVI."   
+  END_OBJECT = SUPPL_ENVI_HEADER
+END_OBJECT = SUPPLEMENTAL_HDR_FILE
+END

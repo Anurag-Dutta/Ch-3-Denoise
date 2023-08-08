@@ -1,0 +1,1193 @@
+<VRTDataset rasterXSize="304" rasterYSize="14051">
+  <Metadata/>
+  <VRTRasterBand dataType="Float32" band="1">
+	<Description> 460.990 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="2">
+	<Description> 500.920 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="3">
+	<Description> 540.840 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="4">
+	<Description> 580.765 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="5">
+	<Description> 620.690 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>5</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="6">
+	<Description> 660.610 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>6</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="7">
+	<Description> 700.538 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>7</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="8">
+	<Description> 730.480 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>8</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="9">
+	<Description> 750.440 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>9</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="10">
+	<Description> 770.400 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>10</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="11">
+	<Description> 790.365 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>11</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="12">
+	<Description> 810.330 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>12</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="13">
+	<Description> 830.290 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>13</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="14">
+	<Description> 850.250 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>14</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="15">
+	<Description> 870.210 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>15</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="16">
+	<Description> 890.175 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>16</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="17">
+	<Description> 910.140 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>17</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="18">
+	<Description> 930.100 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>18</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="19">
+	<Description> 950.060 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>19</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="20">
+	<Description> 970.020 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>20</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="21">
+	<Description> 989.980 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>21</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="22">
+	<Description>1009.950 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>22</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="23">
+	<Description>1029.910 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>23</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="24">
+	<Description>1049.870 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>24</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="25">
+	<Description>1069.830 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>25</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="26">
+	<Description>1089.790 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>26</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="27">
+	<Description>1109.760 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>27</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="28">
+	<Description>1129.720 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>28</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="29">
+	<Description>1149.680 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>29</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="30">
+	<Description>1169.640 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>30</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="31">
+	<Description>1189.600 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>31</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="32">
+	<Description>1209.570 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>32</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="33">
+	<Description>1229.530 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>33</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="34">
+	<Description>1249.490 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>34</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="35">
+	<Description>1269.450 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>35</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="36">
+	<Description>1289.410 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>36</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="37">
+	<Description>1309.375 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>37</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="38">
+	<Description>1329.340 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>38</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="39">
+	<Description>1349.300 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>39</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="40">
+	<Description>1369.260 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>40</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="41">
+	<Description>1389.220 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>41</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="42">
+	<Description>1409.185 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>42</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="43">
+	<Description>1429.150 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>43</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="44">
+	<Description>1449.110 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>44</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="45">
+	<Description>1469.070 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>45</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="46">
+	<Description>1489.030 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>46</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="47">
+	<Description>1508.995 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>47</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="48">
+	<Description>1528.960 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>48</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="49">
+	<Description>1548.920 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>49</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="50">
+	<Description>1578.860 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>50</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="51">
+	<Description>1618.788 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>51</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="52">
+	<Description>1658.710 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>52</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="53">
+	<Description>1698.630 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>53</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="54">
+	<Description>1738.560 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>54</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="55">
+	<Description>1778.480 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>55</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="56">
+	<Description>1818.405 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>56</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="57">
+	<Description>1858.330 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>57</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="58">
+	<Description>1898.250 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>58</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="59">
+	<Description>1938.180 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>59</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="60">
+	<Description>1978.100 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>60</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="61">
+	<Description>2018.022 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>61</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="62">
+	<Description>2057.950 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>62</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="63">
+	<Description>2097.870 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>63</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="64">
+	<Description>2137.797 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>64</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="65">
+	<Description>2177.720 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>65</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="66">
+	<Description>2217.643 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>66</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="67">
+	<Description>2257.570 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>67</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="68">
+	<Description>2297.490 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>68</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="69">
+	<Description>2337.415 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>69</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="70">
+	<Description>2377.340 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>70</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="71">
+	<Description>2417.260 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>71</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="72">
+	<Description>2457.190 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>72</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="73">
+	<Description>2497.110 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>73</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="74">
+	<Description>2537.035 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>74</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="75">
+	<Description>2576.960 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>75</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="76">
+	<Description>2616.880 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>76</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="77">
+	<Description>2656.808 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>77</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="78">
+	<Description>2696.730 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>78</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="79">
+	<Description>2736.652 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>79</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="80">
+	<Description>2776.580 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>80</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="81">
+	<Description>2816.500 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>81</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="82">
+	<Description>2856.427 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>82</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="83">
+	<Description>2896.350 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>83</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="84">
+	<Description>2936.272 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>84</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="85">
+	<Description>2976.200 nm</Description>
+	<Unit>summary parameter</Unit>
+	<NoDataValue></NoDataValue>
+
+    <Metadata/>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">M3G20090606T093322_V01_RFL.IMG</SourceFilename>
+      <SourceBand>85</SourceBand>
+      <SourceProperties RasterXSize="304" RasterYSize="14051" DataType="Float32" BlockXSize="304" BlockYSize="1"/>
+      <SrcRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+      <DstRect xOff="0" yOff="0" xSize="304" ySize="14051"/>
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

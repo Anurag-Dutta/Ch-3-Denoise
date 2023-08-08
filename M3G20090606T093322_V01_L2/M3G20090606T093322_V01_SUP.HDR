@@ -1,0 +1,19 @@
+ENVI
+description = {
+C:/Users/Anurag Dutta/Desktop/Essentials/Research/Research Gamma/Week3/M3G20090606T093322_V01_L2/M3G20090606T093322_V01_SUP.IMG}
+samples = 304
+lines   = 14051
+bands   = 3
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bil
+byte order = 0
+map info = {Geographic Lat/Lon, 1, 1, 0, 0, 1, 1,WGS-84, rotation=180}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+band names = {
+1489 RFL with PHOTOM RELATIVE TO SPHERE (reflectance),
+ESTIMATED SURFACE TEMPERATURE (degK),
+RDN BAND 84  (radiance)}
+data offset values = {0, 0, 0}
+data gain values = {1, 1, 1}
