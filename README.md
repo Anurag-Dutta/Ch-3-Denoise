@@ -1,6 +1,10 @@
 # Exploring Ch-3 Landing Site: Spectral Denoising of Ch-2 IIRS and Ch-1 M<sup>3</sup> Data
 
-The **Chandrayaan 3 (Ch-3)** mission is poised to comprehensively explore the moon's surface. The landing site selection process leverages insights gained from previous missions, particularly Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS) and Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³).
+The **Chandrayaan 3 (Ch-3)** mission is poised to comprehensively explore the moon's surface. The landing site selection process leverages insights gained from previous missions, particularly Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS) and Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³). 
+
+<p align="right">
+  <img src="https://www.pinclipart.com/picdir/big/35-354122_indian-space-research-organisation-logo-isro-logo-clipart.png" alt="ISRO" width="200">
+</p>
 
 ![Ch-1 M³](https://github.com/Anurag-Dutta/Ch-3-Denoise/blob/main/M3G20090606T093322_V01_QL_B046.jpg)
 HyperSpectral Image from Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³)
@@ -19,3 +23,5 @@ These intelligent algorithms play a pivotal role in uncovering the authentic cha
 
 ![Example Image](https://github.com/Anurag-Dutta/Ch-3-Denoise/blob/main/exempler.png)
 Noisy HyperSpectral Image (added at a random intensity) along with its denoised versions using *Automatic Hyperspectral Image Restoration Using Sparse and Low-Rank Modeling* (**HyRes**), and *Hyperspectral Mixed Gaussian and Sparse Noise Reduction* (**HyMiNoR**) respectively.
+
+
