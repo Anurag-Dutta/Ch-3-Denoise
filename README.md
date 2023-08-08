@@ -11,5 +11,5 @@ Our objective is to enhance the quality of Chandrayaan 3's landing site data by 
 
 These intelligent algorithms play a pivotal role in uncovering the authentic characteristics of the lunar landscape concealed beneath the noise. This, in turn, furnishes us with enhanced insights into the distinctive attributes of the chosen landing site.
 
-![Noisy HyperSpectral Image](exempler)
-**Figure: Noisy HyperSpectral Image** (added at a random intensity) along with its denoised versions using *Automatic Hyperspectral Image Restoration Using Sparse and Low-Rank Modeling* (**HyRes**), and *Hyperspectral Mixed Gaussian and Sparse Noise Reduction* (**HyMiNoR**) respectively.
+![Example Image](https://github.com/Anurag-Dutta/Ch-3-Denoise/blob/main/exempler.png)
+Noisy HyperSpectral Image (added at a random intensity) along with its denoised versions using *Automatic Hyperspectral Image Restoration Using Sparse and Low-Rank Modeling* (**HyRes**), and *Hyperspectral Mixed Gaussian and Sparse Noise Reduction* (**HyMiNoR**) respectively.
