@@ -1,4 +1,4 @@
-# Exploring Ch-3 Landing Site: Spectral Denoising of Ch-2 IIRS and Ch-1 M<sup>3</sup> Data
+# Hyperspectral patches between Manzius U \& Boguslawsky M Lunar craters from the Ch-1 M<sup>3</sup> \& Ch-2 IIRS Data
 _Funded by the Department of Space, Indian Space Research Organization (ISRO)_
 
 The **Chandrayaan 3 (Ch-3)** mission is poised to comprehensively explore the moon's surface. The landing site selection process leverages insights gained from previous missions, particularly Chandrayaan 2's (*Ch-2*) Imaging Infrared Spectrometer (IIRS) and Chandrayaan 1's (*Ch-1*) Moon Mineralogy Mapper (M³). 
